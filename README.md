@@ -1,6 +1,6 @@
 # Pong Game
 
-A classic Pong game built using the [LOVE2D](https://love2d.org/) framework and Lua. This project demonstrates simple game mechanics, collision detection, scoring, and basic AI for a retro-style Pong experience.
+A classic Pong game built using the [LOVE2D](https://love2d.org/) framework and Lua. This project demonstrates simple game mechanics, collision detection and scoring, for a retro-style Pong experience.
 
 ## Installation
 
